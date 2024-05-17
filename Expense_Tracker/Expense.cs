@@ -13,7 +13,10 @@
             expenseCatergory = "";
         }
         
-        public AddExpense()
+        public void AddExpense()
+        {
+
+        }
 
     }
 }
